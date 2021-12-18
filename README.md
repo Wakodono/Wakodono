@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Wakodono
-- 👀 I’m interested in Home-based business, dance and football
+- 👋 Hi, I’m Wako (Wack-o)
+- 👀 I’m interested in Home-based business, dance and football of the American variety 
 - 🌱 I’m currently learning javascript for fullstack web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: wakoanindo@outlook.com instagram.com/wako_iii twiter.com/realwako
 
 <!---
