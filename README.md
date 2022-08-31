@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wako (Wack-o)
 - 👀 I’m interested in Home-based business, dance and football of the American variety 
-- 🌱 I’m an up and coming Mongo-Express-React-Node fullstack web developmer looking for proffessional opportunities
+- 🌱 I’m a Junior developer working towards mastery
 - 📫 How to reach me: wakoanindo@outlook.com
 
 <!---
