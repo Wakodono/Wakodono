@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m Wako (Wack-o)
 - 👀 I’m interested in Home-based business, dance and football of the American variety 
-- 🌱 I’m a JavaScritp developer, always working towards mastery
+- 🌱 I’m a JavaScript developer, always working towards mastery
 - 📫 How to reach me: wakoanindo@outlook.com
 
 <!---
