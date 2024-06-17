@@ -1,4 +1,4 @@
-Hi, I'm Wako Anindo. You can call me Wako.
+Hi, I'm Wako Anindo
 ============================
 
 Software Engineer and Football Player 🏈
