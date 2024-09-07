@@ -10,7 +10,7 @@ I'm a junior developer with an intermediate understanding of the JavaScript ecos
 - **Strengths:** Problem-solving, collaboration, adaptability, attention to detail, patience
 - **Work Style:** Structured, goal-oriented, proactive communicator, continuous learner, accountable, punctual
 
-I excel at solving complex problems and optimizing code. Working in team environments, I value clear communication and collaboration. My experience in debugging and pair programming ensures I deliver high-quality, maintainable code.
+I excel at solving complex problems and optimising code. Working in team environments, I value clear communication and collaboration. My experience in debugging and pair programming ensures I deliver high-quality, maintainable code.
 
 I’m passionate about technology and always look for new challenges to enhance my skills. Whether diving into a new framework or leading a project, I bring enthusiasm and a supportive attitude to every task. My curiosity drives me to explore innovative solutions, and I see every challenge as an opportunity to learn.
 
