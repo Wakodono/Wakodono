@@ -1,7 +1,7 @@
 Hi, I'm Wako Anindo
 ============================
 
-Junior fullstack Software Developer
+Junior Fullstack Software Developer
 ----------------------------------------
 
 I'm a junior developer with an intermediate understanding of the JavaScript ecosystem (React, Node.js). I've progressed rapidly throughout my early career. After rigorous training at Strive School, a Y-Combinator-backed remote school for web developers and data analysts (now Epicode), I secured my first full-time role at the world-leading ed-tech SaaS organization, Administrate. There, I honed my skills while streamlining deployment processes with GitHub Actions, creating user-friendly front-ends, and continuously learning.
