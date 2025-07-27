@@ -1,10 +1,10 @@
 Hi, I'm Wako Anindo
 ============================
 
-Fullstack JavaScript Developer
+Junior Software Engineer
 ----------------------------------------
 
-Half a decade of training and work experience has forged my understanding of the JavaScript ecosystem (React, Node.js). I've progressed rapidly throughout my early career. After rigorous training at Strive School, a Y-Combinator-backed remote school for web developers and data analysts (now Epicode), I secured my first full-time role at the world-leading ed-tech SaaS organization, Administrate. There, I honed my skills while streamlining deployment processes with GitHub Actions, creating user-friendly front-ends, and continuously learning.
+Over 5 years of training and work experience has forged my understanding of the JavaScript ecosystem (React, Node.js). I've progressed rapidly throughout my early career. After rigorous training at Strive School, a Y-Combinator-backed remote school for web developers and data analysts (now Epicode), I secured my first full-time role at the world-leading ed-tech SaaS organization, Administrate. There, I honed my skills while streamlining deployment processes with GitHub Actions, creating user-friendly front-ends, and continuously learning.
 
 - **Strengths:** Problem-solving, collaboration, adaptability, attention to detail, patience
 - **Work Style:** Structured, goal-oriented, proactive communicator, continuous learner, accountable, punctual
@@ -16,7 +16,7 @@ I’m passionate about technology and always look for new challenges to enhance 
 Let's connect and explore how my technical expertise and collaborative spirit can benefit your team!
 
 * 🌍  I'm based in Aberdeen, UK
-* ✉️  You can contact me at [wakoanindo@outlook.com](mailto:wakoanindo@outlook.com)
+* ✉️  You can contact me at [wakoanindo@gmail.com](mailto:wakoanindo@gmail.com)
 
 <a href="https://www.x.com/RealWako" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RealWako?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
