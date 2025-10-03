@@ -43,17 +43,6 @@ Let's connect and explore how my technical expertise and collaborative spirit ca
 
 <p align="left"> 
 <a href="https://discord.com/users/wako1224" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
-<a href="https://www.github.com/wakodono" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="http://www.instagram.com/wako_iii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/wakoanindo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 <a href="https://www.x.com/RealWako" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/wakodono"><img src="https://github-readme-stats.vercel.app/api?username=wakodono&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wakodono's GitHub stats" /></a>
-<a href="https://github.com/wakodono" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakodono&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
