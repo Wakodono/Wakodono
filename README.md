@@ -1,10 +1,12 @@
 Hi, I'm Wako Anindo
 ============================
 
-Software Engineer
+Software Developer 
 ----------------------------------------
 
-Over 5 years of training and work experience has forged my understanding of the JavaScript ecosystem (React, Node.js). I've progressed rapidly throughout my early career. After rigorous training at Strive School, a Y-Combinator-backed remote school for web developers and data analysts (now Epicode), I secured my first full-time role at the world-leading ed-tech SaaS organisation, Administrate. There, I honed my skills while streamlining deployment processes with GitHub Actions, creating user-friendly front-ends, and continuously learning.
+After rigorous training at Strive School, a Y-Combinator-backed remote school for web developers and data analysts (now Epicode), I secured my first full-time role at a world-leading ed-tech SaaS organisation. I honed my skills while streamlining deployment processes with GitHub Actions, creating user-friendly front-ends, and continuously learning. 
+
+Since then I’ve studied software development at Glasgow Clyde and North East Scotland College. Making time to build real-world systems for hospitality sector clients in between.
 
 - **Strengths:** Problem-solving, collaboration, adaptability, attention to detail, patience
 - **Work Style:** Structured, goal-oriented, proactive communicator, continuous learner, accountable, punctual
