@@ -1,33 +1,31 @@
-Hi, I'm Wako Anindo
-============================
+# Wako Anindo
 
-Software Developer 
-----------------------------------------
+Junior software developer in **Aberdeen**. JavaScript, TypeScript, React, Node, tests.
 
-After rigorous training at Strive School, a Y-Combinator-backed remote school for web developers and data analysts (now Epicode), I secured my first full-time role at a world-leading ed-tech SaaS organisation. I honed my skills while streamlining deployment processes with GitHub Actions, creating user-friendly front-ends, and continuously learning. 
+Looking for a junior or associate role on a product team, hybrid Aberdeen or UK remote.
 
-Since then I’ve studied software development at Glasgow Clyde and North East Scotland College. Making time to build real-world systems for hospitality sector clients in between.
+Production work: React and TypeScript on customer-facing SaaS (Administrate, Andrual). Currently on [The Odin Project](https://www.theodinproject.com/) JavaScript path, with a PDA in Software Development (NESCOL).
 
-- **Strengths:** Problem-solving, collaboration, adaptability, attention to detail, patience
-- **Work Style:** Structured, goal-oriented, proactive communicator, continuous learner, accountable, punctual
+**Stack:** JavaScript, TypeScript, React, Next.js, Node, Jest, Git, GitHub Actions.
 
-I excel at solving complex problems and optimising code. Working in team environments, I value clear communication and collaboration. My experience in debugging and pair programming ensures I deliver high-quality, maintainable code.
+## Projects
 
-I’m passionate about technology and always look for new challenges to enhance my skills. Whether diving into a new framework or leading a project, I bring enthusiasm and a supportive attitude to every task. My curiosity drives me to explore innovative solutions, and I see every challenge as an opportunity to learn.
+These are the four repos pinned on this profile.
 
-Let's connect and explore how my technical expertise and collaborative spirit can benefit your team!
+| Project | What it is | Links |
+| --- | --- | --- |
+| [weather-app](https://github.com/Wakodono/weather-app) | Fetch a public API and render the result in the DOM | [live](https://wakodono.github.io/weather-app/) |
+| [odin-linked-lists](https://github.com/Wakodono/odin-linked-lists) | Singly linked list from scratch, with Jest tests | [repo](https://github.com/Wakodono/odin-linked-lists) |
+| [odin-tic-tac-toe](https://github.com/Wakodono/odin-tic-tac-toe) | Factory functions and DOM | [repo](https://github.com/Wakodono/odin-tic-tac-toe) |
+| [todo-list](https://github.com/Wakodono/todo-list) | Webpack modules, projects, localStorage | [live](https://wakodono.github.io/todo-list/) |
 
-* 🌍  I'm based in Aberdeen, UK
-* ✉️  You can contact me at [wakoanindo@gmail.com](mailto:wakoanindo@gmail.com)
+## Work
 
-<a href="https://www.x.com/RealWako" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RealWako?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- **Andrual Technologies** (2025) — Next.js / TypeScript frontend. Stopped duplicate API calls; Jest and React Testing Library on user-facing bugs.
+- **Administrate** (2022) — React components on a SaaS LMS. Existing GraphQL/MySQL codebase; helped move CI onto GitHub Actions.
 
-### Skills  
+Started with Epicode (then Strive) in 2021. That is background, not the current story.
 
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+## Contact
+
+Aberdeen, UK · [wakoanindo@outlook.com](mailto:wakoanindo@outlook.com) · [LinkedIn](https://www.linkedin.com/in/wakoanindo/) · [GitHub](https://github.com/Wakodono)
