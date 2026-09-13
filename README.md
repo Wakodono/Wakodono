@@ -26,7 +26,7 @@ These are the four repos pinned on this profile.
 - [odin-tic-tac-toe](https://github.com/Wakodono/odin-tic-tac-toe) — factory functions and the DOM
 - [todo-list](https://github.com/Wakodono/todo-list) — webpack modules, projects, localStorage. [Live](https://wakodono.github.io/todo-list/)
 
-I'm on [The Odin Project](https://www.theodinproject.com/) JavaScript path, and I passed a PDA in Software Development at NESCOL.
+I'm 80% through the [The Odin Project](https://www.theodinproject.com/) JavaScript path, and I just passed an SCQF Level 6 in Software Development at NESCOL (Jun 2026).
 
 ## Work
 
