@@ -4,8 +4,6 @@ I'm Aberdeen-based and looking for an entry-level software developer role. I've 
 
 I stay sharp by building consistently. Ready to ship, own work, and solve real problems with a team.
 
-<a href="https://www.x.com/RealWako" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RealWako?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ## What I've been building
 
 - [weather-app](https://github.com/Wakodono/weather-app) — fetch a public API, then render it in the DOM. [Live](https://wakodono.github.io/weather-app/)
@@ -28,7 +26,9 @@ I learned web development on a full-stack course at Epicode in 2021 (it was call
 * 🌍 I'm based in Aberdeen, UK
 * ✉️ You can contact me at [wakoanindo@outlook.com](mailto:wakoanindo@outlook.com)
 
-[LinkedIn](https://www.linkedin.com/in/wakoanindo/) · [GitHub](https://github.com/Wakodono)
+[LinkedIn](https://www.linkedin.com/in/wakoanindo/)
+
+<a href="https://www.x.com/RealWako" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RealWako?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
