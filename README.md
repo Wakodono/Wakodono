@@ -1,10 +1,16 @@
 # Hi, I'm Wako
 
-I'm Aberdeen-based and looking for an entry-level software developer role. I've been building with React, TypeScript and Node.js (plus tests, APIs, and GitHub Actions). Hybrid here or UK remote is fine.
+I'm Aberdeen-based and looking for an entry-level software developer role. I've been building with React, TypeScript and Node.js.
 
-I stay sharp by building consistently. Ready to ship, own work, and solve real problems with a team.
+I've always been a STEM guy, and my educational path led me to a degree in biomedical science first. I liked the problem-solving, but I was more interested in building things than in staying in that field, and I was already teaching myself to code. In 2021, I found Epicode's full-stack course. The pitch was basically: do you want to turn this into a job? That was the point I stopped treating software as a side interest.
 
-## What I've been building
+I joined Administrate afterwards as a junior engineer, on a React and GraphQL learning platform. The codebase was large and already in production. I built components, fixed broken user flows, and helped migrate the team's CI to GitHub Actions.
+
+In 2025, I did frontend work at Andrual on a Next.js and TypeScript product. The app was making the same file-sharing requests twice. I found the duplicate calls, typed the API responses, and added Jest coverage around the bugs users were actually hitting.
+
+When that contract ended, I went back to study: Access to Software Development at North East Scotland College, a PDA at Glasgow Clyde, and The Odin Project in my own time.
+
+## Recent personal projects
 
 - [weather-app](https://github.com/Wakodono/weather-app) — fetch a public API, then render it in the DOM. [Live](https://wakodono.github.io/weather-app/)
 - [odin-linked-lists](https://github.com/Wakodono/odin-linked-lists) — a linked list from scratch, with Jest tests. The goal was simple: understand the pointers, not just use an array
@@ -12,14 +18,6 @@ I stay sharp by building consistently. Ready to ship, own work, and solve real p
 - [todo-list](https://github.com/Wakodono/todo-list) — webpack modules, projects, localStorage. [Live](https://wakodono.github.io/todo-list/)
 
 I'm 80% through the [The Odin Project](https://www.theodinproject.com/) JavaScript path, and I just passed an SCQF Level 6 in Software Development at NESCOL (Jun 2026).
-
-## Work
-
-At **Andrual** (2025) I was on a Next.js / TypeScript product. The app was firing the same API calls twice — I traced it, fixed it, and covered the user-facing bugs with Jest.
-
-At **Administrate** (2022) I built React components on a SaaS LMS, worked in a large GraphQL / MySQL codebase, and helped move the team's CI onto GitHub Actions.
-
-I learned web development on a full-stack course at Epicode in 2021 (it was called Strive then). Administrate was the first job that followed.
 
 ## Contact
 
