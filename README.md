@@ -8,7 +8,7 @@ I joined Administrate afterwards as a junior engineer, on a React and GraphQL le
 
 In 2025, I did frontend work at Andrual on a Next.js and TypeScript product. The app was making the same file-sharing requests twice. I found the duplicate calls, typed the API responses, and added Jest coverage around the bugs users were actually hitting.
 
-When that contract ended, I went back to study: Access to Software Development at North East Scotland College, a PDA at Glasgow Clyde, and The Odin Project in my own time.
+Following that I went back to study: Access to Software Development at North East Scotland College, a PDA at Glasgow Clyde, and The Odin Project in my own time.
 
 ## Recent personal projects
 
