@@ -1,37 +1,20 @@
-# Hi, I'm Wako
+Building a feature is one thing; getting it to work in an existing product is another. At Administrate and Andrual, I've worked on customer-facing features and tracked down bugs in React and Next.js applications.
 
-**React · TypeScript · Node.js**
+That meant understanding code I hadn't written, asking questions about how the pieces fitted together, and working with the team to make changes. At Andrual, that included building document sharing and fixing state-management bugs.
 
-I'm an Aberdeen-based developer looking for a junior role on a product team, locally or remote in the UK.
+I've completed CS50 and continue working through The Odin Project. I enjoy the moments when that practice pays off and I can solve something independently that I previously needed help with.
 
-I've worked on React and GraphQL features at Administrate, and a Next.js and TypeScript product at Andrual. My personal projects are where I practise fundamentals, test ideas and work through gaps in my knowledge.
+## Technologies
 
-I've always been a STEM guy, and my educational path led me to a degree in biomedical science first. I liked the problem-solving, but I was more interested in building things than in staying in that field, and I was already teaching myself to code. In 2021, I found Epicode's full-stack course. The pitch was basically: do you want to turn this into a job? That was the point I stopped treating software as a side interest.
+React · TypeScript · Node.js · Next.js · GraphQL · Express · MySQL · Jest · Git
 
-I joined Administrate afterwards as a junior engineer, on a React and GraphQL learning platform. The codebase was large and already in production. I built components, fixed broken user flows, and helped migrate the team's CI to GitHub Actions.
+## Selected projects
 
-In 2025, I did frontend work at Andrual on a Next.js and TypeScript product. The app was making the same file-sharing requests twice. I found the duplicate calls, typed the API responses, and added Jest coverage around the bugs users were actually hitting.
-
-Following that I went back to study: Access to Software Development at North East Scotland College, a PDA at Glasgow Clyde, and The Odin Project in my own time.
-
-## Recent personal projects
-
-- [weather-app](https://github.com/Wakodono/weather-app) — fetch a public API, then render it in the DOM. [Live](https://wakodono.github.io/weather-app/)
-- [odin-linked-lists](https://github.com/Wakodono/odin-linked-lists) — a linked list from scratch, with Jest tests. The goal was simple: understand the pointers, not just use an array
-- [odin-tic-tac-toe](https://github.com/Wakodono/odin-tic-tac-toe) — factory functions and the DOM
-- [todo-list](https://github.com/Wakodono/todo-list) — webpack modules, projects, localStorage. [Live](https://wakodono.github.io/todo-list/)
-
-I'm continuing [The Odin Project](https://www.theodinproject.com/)'s JavaScript curriculum, and I passed an SCQF Level 6 in Software Development at NESCOL (Jun 2026).
+- [CoinView](https://github.com/Wakodono/wako-solo-capstone), cryptocurrency dashboard built for my Strive School solo capstone using React, Redux Toolkit, Ant Design and Chart.js.
+- [CoinView backend](https://github.com/Wakodono/wako-solo-capstone-be), Node.js and Express API with MongoDB and JWT authentication.
+- [Todo List](https://github.com/Wakodono/todo-list), JavaScript and Webpack, separating data from the UI and saving projects and todos in localStorage.
+- [Linked List](https://github.com/Wakodono/odin-linked-lists), built from scratch with JavaScript factory functions and Jest tests running with Node.js. Its README explains what I learned and the bugs I worked through.
 
 ## Contact
 
-* 🌍 I'm based in Aberdeen, UK
-* ✉️ You can contact me at [wakoanindo@outlook.com](mailto:wakoanindo@outlook.com)
-
-[LinkedIn](https://www.linkedin.com/in/wakoanindo/)
-
-<a href="https://www.x.com/RealWako" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RealWako?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-React · TypeScript · Node.js · Next.js · GraphQL · Express · MySQL · Jest · Git
+[Find me on LinkedIn](https://www.linkedin.com/in/wakoanindo/)
